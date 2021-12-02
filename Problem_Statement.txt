@@ -1,0 +1,16 @@
+Google Books API is a public API provided by google licensed by Apache
+API link:  https://developers.google.com/books/docs/overview
+Your task is to integrate the Google Book API v1 into an application using 
+your prefered technology stack in give time.Refering to the API docs and googling is allowed. In case any plagarised content is identify you will be shot on the spot.( duh eliminated)
+
+Google BOOKs API 
+(i) Books API v1
+1. search and browse through the list of books that match a given query.
+2. view information about a book, including metadata, availability and price,    links to the preview page.
+3. manage your own bookshelves.
+
+
+(ii) Embedded Viewer API 
+1. Embed book content from Google Books. (books preview)
+
+
